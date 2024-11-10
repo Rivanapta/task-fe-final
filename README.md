@@ -1,35 +1,21 @@
-# vue-3-vuetify-login
+# Task Vue Fe Final
+- ini link golangnya https://github.com/Rivanapta/task-final-golang
 
-This template should help get you started developing with Vue 3 in Vite.
+## Screenshoot Hasil
 
-## Recommended IDE Setup
+![home](https://github.com/user-attachments/assets/62dbb8f2-f0bd-4749-9e32-8360ecd4b9fb)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![accountlist](https://github.com/user-attachments/assets/547f29a6-298c-4bdb-a6c4-059c1195b6ce)
 
-## Customize configuration
+![createaccount](https://github.com/user-attachments/assets/f7df96e6-3f4f-4cba-aacc-e40e9a68ee54)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![edit_account](https://github.com/user-attachments/assets/22765b01-bd17-44f0-b0ad-70d8a3be460b)
 
-## Project Setup
+![changepassword](https://github.com/user-attachments/assets/76044423-4653-4d1a-b9e0-0cf0ed549775)
 
-```sh
-npm install
-```
+![Dompetkuv2](https://github.com/user-attachments/assets/e48680c6-3ff4-44e1-bff6-bee211b34b7d)
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
